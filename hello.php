@@ -1,2 +1,3 @@
 <?php
-    echo "Hello, world!";
+    session_strt();
+    echo "hello? world!";
